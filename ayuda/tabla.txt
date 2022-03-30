@@ -1,0 +1,19 @@
+table border="2px">
+        <thead>
+            <tr>
+                <th>Paquete</th><th>N° de sillas</th><th>Tamaño</th><th>Altura</th><th>costo</th>
+            </tr>
+        </thead>
+        <tr>
+            <td>Estandar 1</td><td>4</td><td>120cm x 120xm</td><td>70cm</td><td>$9.169</td>
+        </tr>
+        <tr>
+            <td>Estandar 2</td><td>4</td><td>160cm x 90cm</td><td>70cm</td><td>$12.420</td>
+        </tr>
+        <tr>
+            <td>Moderno</td><td>4</td><td>140cm x 120xm</td><td>70cm</td><td>$15.499</td>
+        </tr>
+        <tr>
+            <td>Premium</td><td>4</td><td>220cm x 130xm</td><td>70cm</td><td>$23.450</td>
+        </tr>
+    </table>
